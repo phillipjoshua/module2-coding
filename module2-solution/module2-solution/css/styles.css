@@ -109,11 +109,11 @@ p{
     .col-lg-12{
         width: 100%;
     }
-.row{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+    .row{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -157,7 +157,6 @@ p{
     .col-md-12{
         width: 100%;
     }
-    
     #p1{
         width: 42%;
         background-color: #999999;
@@ -214,7 +213,6 @@ p{
     .col-sm-12{
         width: 100%;
     }
-    
     #p1,#p2,#p3{
         margin-right: 20px;
         width: 90%;
